@@ -1,0 +1,2 @@
+article,accuracy,MCC,F1,part,batch_size,epochs,training_size,train_distribution
+All,0.6992389247268065,0.39905660076029265,0.703143296020567,procedure,16,20,3132,50.0

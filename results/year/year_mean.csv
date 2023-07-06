@@ -1,0 +1,7 @@
+,Random,Past cases
+SVM,18.97,20.03
+Naive Bayes,17.95,17.27
+Random Forest,21.11,13.39
+BERT,21.78,8.16
+Train size,612.27,612.27
+Test size,183.58,183.58
